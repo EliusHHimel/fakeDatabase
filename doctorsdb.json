@@ -1,7 +1,7 @@
 [
     {
         "key": "1",
-        "name": "Linda T. Simmons",
+        "name": "Dr. Linda T. Simmons",
         "role": "MBBS/General Medicine",
         "gender": "Female",
         "img": "https://img.freepik.com/free-photo/pretty-smiling-joyfully-female-with-fair-hair-dressed-casually-looking-with-satisfaction_176420-15187.jpg?size=626&ext=jpg",
@@ -9,7 +9,7 @@
     },
     {
         "key": "2",
-        "name": "Tina R. Luke",
+        "name": "Dr. Tina R. Luke",
         "role": "Cardiologist",
         "gender": "Female",
         "img": "https://img.freepik.com/free-photo/portrait-confident-beautiful-brunette-woman-turning-face-camera-with-dreamy-look-white_1258-19144.jpg?size=626&ext=jpg&ga=GA1.2.1030257410.1615075200",
@@ -17,7 +17,7 @@
     },
     {
         "key": "3",
-        "name": "Ronald W. Lara",
+        "name": "Dr. Ronald W. Lara",
         "role": "MBBS / General Medicine",
         "gender": "Male",
         "img": "https://ssc98hsc00.com/uploads/user/340558.jpeg",
@@ -25,7 +25,7 @@
     },
     {
         "key": "4",
-        "name": "Gary C. Gardner",
+        "name": "Dr. Gary C. Gardner",
         "role": "MBBS / General Medicine",
         "gender": "Male",
         "img": "https://bombaymeatco.com/wp-content/uploads/2014/11/free-profile-photo-whatsapp-4.png",
@@ -33,7 +33,7 @@
     },
     {
         "key": "5",
-        "name": "Paul N. Adams",
+        "name": "Dr. Paul N. Adams",
         "role": "Cardiologist",
         "gender": "Male",
         "img": "https://us.123rf.com/450wm/marctran/marctran1903/marctran190300253/122835357-asian-handsome-man-smiling-and-laughing-isolated-on-white-background-soft-focus.jpg?ver=6",
@@ -41,7 +41,7 @@
     },
     {
         "key": "6",
-        "name": "Kenneth V. Paschall",
+        "name": "Dr. Kenneth V. Paschall",
         "role": "Doctor of Dental Surgery (DDS)",
         "gender": "Male",
         "img": "https://nugrowth.com/wp-content/uploads/2015/03/kyle-tillar2.png",
@@ -49,15 +49,15 @@
     },
     {
         "key": "7",
-        "name": "Matthew S. Zimmerman",
+        "name": "Dr. Matthew S. Zimmerman",
         "role": "Doctor of Dental Surgery (DDS)",
         "gender": "Male",
-        "img": "https://storage.needpix.com/rsynced_images/profile-1719207_1280.jpg",
+        "img": "https://st2.depositphotos.com/4460577/7582/i/600/depositphotos_75822969-stock-photo-portrait-of-a-young-male.jpg",
         "salary": 700
     },
     {
         "key": "8",
-        "name": "Donald L. Bukowski",
+        "name": "Dr. Donald L. Bukowski",
         "role": "General Surgeon",
         "gender": "Male",
         "img": "https://cdn-images.zety.com/pages/turczynski_bart.jpg",
@@ -65,7 +65,7 @@
     },
     {
         "key": "9",
-        "name": "Terry J. Miller",
+        "name": "Dr. Terry J. Miller",
         "role": "General Surgeon",
         "gender": "Male",
         "img": "https://pbs.twimg.com/profile_images/963148463176278017/gqiOUItj.jpg",
@@ -73,7 +73,7 @@
     },
     {
         "key": "10",
-        "name": "Twila R. Traylor",
+        "name": "Dr. Twila R. Traylor",
         "role": "Gynecologist",
         "gender": "Female",
         "img": "https://t4.ftcdn.net/jpg/03/30/25/97/360_F_330259751_tGPEAq5F5bjxkkliGrb97X2HhtXBDc9x.jpg",
@@ -81,7 +81,7 @@
     },
     {
         "key": "11",
-        "name": "Donna S. Fletcher",
+        "name": "Dr. Donna S. Fletcher",
         "role": "Gynecologist",
         "gender": "Female",
         "img": "https://media.istockphoto.com/photos/young-longhaired-smiling-woman-in-white-shirt-picture-id965523228?k=20&m=965523228&s=612x612&w=0&h=X-qYAtuucNDt5d68eNfiXj-spfu_GVdctdwNdJ0X6NQ=",
@@ -89,7 +89,7 @@
     },
     {
         "key": "12",
-        "name": "Karen J. Beauchesne",
+        "name": "Dr. Karen J. Beauchesne",
         "role": "Gynecologist",
         "gender": "Female",
         "img": "https://media.istockphoto.com/photos/confident-mature-businesswoman-on-white-background-picture-id1132314350?k=20&m=1132314350&s=612x612&w=0&h=3C1tcSHt3pa1TnjEFDMWQKR_k6kvmYPmyYGHVt8lXfk=",
